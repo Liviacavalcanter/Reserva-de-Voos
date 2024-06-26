@@ -1,0 +1,1 @@
+Sistema de reserva de voos em formato CRUD em Java utilizando os conceitos de programação orientada a objetos. Nele é possível cadastrar, editar, atualizar, pesquisar e deletar voos apartir de um menu.
